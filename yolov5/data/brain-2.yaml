@@ -1,0 +1,13 @@
+names:
+- abnormal
+- internal-capsule
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: brain-structure
+  url: https://universe.roboflow.com/theodoreng/brain-structure/dataset/2
+  version: 2
+  workspace: theodoreng
+test: ../test/images
+train: brain-structure-2/train/images
+val: brain-structure-2/valid/images

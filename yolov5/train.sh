@@ -1,0 +1,1 @@
+python train.py --project brain-2 --name epoch100 --img 640 --epochs 100 --data brain-2.yaml --weights yolov5s.pt
